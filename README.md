@@ -1,6 +1,6 @@
 # Shamir's Secret Sharing (SSS) Generate and Restore via Web Browser
 
-The goal of this project is to make Shamir's Secret Sharing easy to use — especially in case of emergency. Only a web browser is required to run the HTML files, and the HTML files can be run fully offline.
+The goal of this project is to make [Shamir's Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_secret_sharing) easy to use — especially in case of emergency. Only a web browser is required to run the HTML files, and the HTML files can be run fully offline.
 
 ## Demo
 
