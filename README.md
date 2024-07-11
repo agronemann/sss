@@ -2,6 +2,10 @@
 
 The goal of this project is to make Shamir's Secret Sharing easy to use — especially in case of emergency. Only a web browser is required to run the HTML files, and the HTML files can be run fully offline.
 
+## Demo
+
+![Demo](./demo.gif)
+
 ## Installation
 
 You are meant to download [sss-generate.html](https://raw.githubusercontent.com/agronemann/sss/main/sss-generate.html) and [sss-restore.html](https://raw.githubusercontent.com/agronemann/sss/main/sss-restore.html) and run them locally in a web browser. No other dependencies are required.
