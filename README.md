@@ -24,9 +24,9 @@ Or download using cURL:
 
 ## Usage
 
-With [sss-generate.html](https://raw.githubusercontent.com/agronemann/sss/main/sss-generate.html) you can generate a printable version of shares for a chosen passphrase (or any string you like). Open the file in a browser, enter the password you want to use Shamir's Secret Sharing on, the amount of shares to generate, and how many shares you want to require to restore the password (called the threshold). Each share will be on a seperate page. A QR code and a text representation of the QR code is displayed for each share.
+With [sss-generate.html](https://raw.githubusercontent.com/agronemann/sss/main/sss-generate.html) you can generate a printable version of shares for a chosen password (or any string you like). Open the file in a browser, enter the password you want to use Shamir's Secret Sharing on, the amount of shares to generate, and how many shares you want to require to restore the password (called the threshold). Each share will be on a seperate page. A QR code and a text representation of the QR code is displayed for each share.
 
-With [sss-restore.html](https://raw.githubusercontent.com/agronemann/sss/main/sss-restore.html) you can combine shares to restore the passphrase. You will need atleast the amount of shares equal to the threshold you specified while generating the shares. Enter each share on a seperate line in the textarea and click "Combine shares" (tip: the textarea ignores blank lines and trailing whitespace).
+With [sss-restore.html](https://raw.githubusercontent.com/agronemann/sss/main/sss-restore.html) you can combine shares to restore the password. You will need atleast the amount of shares equal to the threshold you specified while generating the shares. Enter each share on a seperate line in the textarea and click "Combine shares" (tip: the textarea ignores blank lines and trailing whitespace).
 
 ## Dependencies
 
